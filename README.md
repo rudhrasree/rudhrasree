@@ -53,6 +53,6 @@
 ### 📫 Connect with Me
 📍 Aruppukkottai, Virudhunagar  
 ✉️ [rudhrasree2005@gmail.com](mailto:rudhrasree2005@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/rudhrasree?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rudhrasree2005)
+🌐 [LinkedIn](https://www.linkedin.com/in/rudhrasree?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rudhrasree)
 ---
 ⭐ *“Driven by curiosity, powered by innovation.”*
