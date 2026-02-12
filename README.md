@@ -14,7 +14,6 @@
 ### 🛠️ Technical Skills
 **Languages:** C, C++, Java, HTML, CSS, JavaScript  
 **Tools:** Arduino IDE, Microsoft Power BI, VS Code, Github
-
 **Domains:** IoT, Embedded Systems, Web Development, Power Systems  
 
 ---
