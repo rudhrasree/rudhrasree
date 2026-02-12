@@ -14,6 +14,7 @@
 ### 🛠️ Technical Skills
 **Languages:** C, C++, Java, HTML, CSS, JavaScript  
 **Tools:** Arduino IDE, Microsoft Power BI, VS Code, Github
+
 **Domains:** IoT, Embedded Systems, Web Development, Power Systems  
 
 ---
@@ -46,7 +47,6 @@
 ### 🏆 Achievements
 - 🧠 Smart India Hackathon 2024 & 2025 Participant  
 - 💬 Debate: *Placement vs Academic Preparation* – IE (EEE)  
-- 🥇 Presented projects at Techno Innovate and MepExpo  
 
 ---
 
