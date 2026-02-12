@@ -7,13 +7,13 @@
 - 🔌 B.E EEE @ Mepco Schlenk Engineering College (CGPA: 7.62 till 5th sem)
 - ⚙️ Passionate about **Embedded Systems, IoT, Web Development, and Power Systems**
 - 🌱 Currently exploring **Full Stack Development** and **IoT**
-- 🚀 Participated in **Smart India Hackathon 2024 & 2025**, **Techno Innovate**, and **MepExpo**
+- 🚀 Participated in **Smart India Hackathon 2024 & 2025**
 
 ---
 
 ### 🛠️ Technical Skills
 **Languages:** C, C++, Java, HTML, CSS, JavaScript  
-**Tools:** Arduino IDE, KiCad, Microsoft Power BI, VS Code  
+**Tools:** Arduino IDE, Microsoft Power BI, VS Code, Github
 **Domains:** IoT, Embedded Systems, Web Development, Power Systems  
 
 ---
@@ -39,7 +39,7 @@
 - **Programming Using Java** – Infosys  
 - **Microsoft Power BI** – Microsoft  
 - **Embedded Systems with AUTOSAR** – Bosch  
-- **PCB Design using KiCad** – NPTEL  
+- **PCB Design using KiCad** – KiCad
 
 ---
 
@@ -53,7 +53,6 @@
 ### 📫 Connect with Me
 📍 Aruppukkottai, Virudhunagar  
 ✉️ [rudhrasree2005@gmail.com](mailto:rudhrasree2005@gmail.com)  
-🌐 [LinkedIn](#) | [GitHub](https://github.com/rudhrasree2005)
-
+🌐 [LinkedIn](https://www.linkedin.com/in/rudhrasree?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rudhrasree2005)
 ---
 ⭐ *“Driven by curiosity, powered by innovation.”*
