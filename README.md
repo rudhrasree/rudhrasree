@@ -39,7 +39,6 @@
 - **Programming Using Java** – Infosys  
 - **Microsoft Power BI** – Microsoft  
 - **Embedded Systems with AUTOSAR** – Bosch  
-- **PCB Design using KiCad** – KiCad
 
 ---
 
