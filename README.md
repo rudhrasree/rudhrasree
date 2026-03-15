@@ -13,7 +13,7 @@
 
 ### 🛠️ Technical Skills
 **Languages:** C, C++, Java, HTML, CSS, JavaScript  
-**Tools:** Arduino IDE, Microsoft Power BI, VS Code, Github
+**Tools:** Arduino IDE, Microsoft Power BI, VS Code, GitHub  
 **Domains:** IoT, Embedded Systems, Web Development, Power Systems  
 
 ---
@@ -31,6 +31,11 @@
 #### 🔸 Nool Kalai – E-Commerce Web Application
 - Built an e-commerce website for crochet products  
 - Frontend: HTML, CSS, JavaScript  
+
+#### 🔸 Elvoura Jewels & Accessories Website
+- Developed a product showcase website for accessories and jewellery collections  
+- Includes multiple category pages like earrings, necklaces, anklets, phone charms, and more  
+- Built using **HTML, CSS, and JavaScript** as a freelancing project  
 
 ---
 
@@ -52,5 +57,7 @@
 📍 Aruppukkottai, Virudhunagar  
 ✉️ [rudhrasree2005@gmail.com](mailto:rudhrasree2005@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/rudhrasree?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rudhrasree)
+
 ---
+
 ⭐ *“Driven by curiosity, powered by innovation.”*
